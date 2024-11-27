@@ -16,6 +16,8 @@
     "vite": "^4.1.4"
   },
   "dependencies": {
-    "alpinejs": "^3.14.3"
+    "@eslint/eslintrc": "^3.2.0",
+    "alpinejs": "^3.14.3",
+    "glob": "^11.0.0"
   }
 }
