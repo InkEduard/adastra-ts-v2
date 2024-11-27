@@ -2,16 +2,13 @@
 
 # Dependencies
 node_modules
-pnpm-lock.yaml
 package-lock.json
 yarn.lock
 
 # Editor directories and files
-.vscode/*
-!.vscode/extensions.json
 .idea
-dist
 .editorconfig
+.history
 
 # Misc
 .DS_Store
@@ -24,3 +21,5 @@ logs
 
 # Adastra
 assets/adastra.manifest.json
+assets/ats-*
+snippets/adastra.liquid
