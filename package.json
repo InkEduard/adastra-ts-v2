@@ -1,0 +1,23 @@
+{
+  "name": "with-typescript",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "adastra dev",
+    "build": "adastra build",
+    "preview": "adastra preview",
+    "check": "adastra check"
+  },
+  "devDependencies": {
+    "@types/alpinejs": "^3.13.10",
+    "adastra-cli": "latest",
+    "adastra-plugin": "latest",
+    "typescript": "^4.9.3",
+    "vite": "^4.1.4"
+  },
+  "dependencies": {
+    "@eslint/eslintrc": "^3.2.0",
+    "alpinejs": "^3.14.3",
+    "glob": "^11.0.0"
+  }
+}
